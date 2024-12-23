@@ -85,6 +85,3 @@ This project focuses on developing a statistical arbitrage strategy to identify 
 
 #### Contributing
 Feel free to fork this repository and submit pull requests for improvements or suggestions!
-
-#### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
